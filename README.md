@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GJAGADEESHKUMAR
 - 👀 I’m interested in collaborative coding in languages like Python and C.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on Data Structures and Algorithms.
 - 📫 How to reach me.
 
